@@ -78,7 +78,7 @@ If you want to generate the `.exe` file:
 
 ## License
 
-This project is licensed under the  License.
+This project is licensed under the Apache License 2.0.
 
 ---
 
