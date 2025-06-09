@@ -25,7 +25,7 @@ This project also provides a standalone `.exe` file for quick use without Python
 
 ### 1. Using the `.exe` File
 
-1. Download the latest `Caesar_Cipher_Tool.exe` from the [releases](#) (or your distribution location).
+1. Download the latest `Caesar_Cipher_Tool.exe`.
 2. Double-click to run.  
    _No Python installation required!_
 
