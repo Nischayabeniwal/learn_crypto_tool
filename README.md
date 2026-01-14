@@ -1,4 +1,4 @@
-#Project Agenda (Planned)
+# Project Agenda (Planned)
 
 - Convert this repository into an educational encryption demo application, not a security tool.
 - Demonstrate classical encryption techniques (Caesar, ROT13, substitution) with clear visual and text output.
