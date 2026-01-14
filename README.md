@@ -1,4 +1,20 @@
-# Caesar Cipher Tool
+#Project Agenda (Planned)
+
+- Convert this repository into an educational encryption demo application, not a security tool.
+- Demonstrate classical encryption techniques (Caesar, ROT13, substitution) with clear visual and text output.
+- Add interactive controls (sliders, keys, shifts) so users can experiment and see changes in real time.
+- Visualize how encryption affects text and image data to make concepts intuitive.
+- Clearly explain how each encryption method works using short, simple descriptions.
+- Highlight the limitations and weaknesses of insecure or classical ciphers.
+- Include modern encryption demos (e.g., AES) strictly for educational comparison.
+- Allow side-by-side comparison of plaintext vs encrypted output.
+- Keep the interface simple, beginner-friendly, and transparent.
+- Ensure all examples are safe, offline, and for learning purposes only.
+
+
+
+
+## Caesar Cipher Tool
 
 A simple and user-friendly **Caesar Cipher** encryption and decryption tool with a modern Tkinter GUI. Easily encrypt or decrypt messages with a custom shift value.  
 This project also provides a standalone `.exe` file for quick use without Python installation.
